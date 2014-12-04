@@ -1,0 +1,5 @@
+# Do not remove this line, otherwise mod_rewrite rules will stop working
+RewriteBase /
+
+# This allows you to redirect your entire website to any other domain
+Redirect /index.php http://printshop.net84.net/public/
